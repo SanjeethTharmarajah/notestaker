@@ -64,6 +64,10 @@ WHEN delete is pressed coded to delete data using id and json databse is updated
 
 ![image](https://github.com/SanjeethTharmarajah/notestaker/assets/130941252/e76984c2-7ca1-43a4-9102-86557f8b4a64)
 
+4.) To test code in heroku click the following link
+
+https://sleepy-island-15905-da1937ecd04b.herokuapp.com/
+
 ## Bonus
 
 Delete is implemented
