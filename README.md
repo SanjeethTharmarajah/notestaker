@@ -62,6 +62,7 @@ WHEN delete is pressed coded to delete data using id and json databse is updated
 
 3.) node server.js (To test application)
 
+![image](https://github.com/SanjeethTharmarajah/notestaker/assets/130941252/e76984c2-7ca1-43a4-9102-86557f8b4a64)
 
 ## Bonus
 
