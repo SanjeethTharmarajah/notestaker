@@ -163,7 +163,7 @@ button:hover {
   color: white;
   padding: 5px 5px;
   border: none;
-  border-radius: 100%;
+  border-radius: 5px;
   cursor: pointer;
   margin:2px;
   float:right;
@@ -173,6 +173,32 @@ button:hover {
 
 .deletebtn:hover {
   background-color: #a04545;
+}
+.btnDelete2 {
+  background-color: rgb(255, 30, 30);
+  border: none;
+  color: white;
+  padding: 12px 16px;
+  font-size: 16px;
+  cursor: pointer;
+}
+
+/* Darker background on mouse-over */
+.btnDelete2:hover {
+  background-color: rgb(225, 165, 165);
+}
+.btnSave2 {
+  background-color: DodgerBlue;
+  border: none;
+  color: white;
+  padding: 12px 16px;
+  font-size: 16px;
+  cursor: pointer;
+}
+
+/* Darker background on mouse-over */
+.btnSave2:hover {
+  background-color: RoyalBlue;
 }
 /* Responsive layout for mobile devices */
 @media screen and (max-width: 600px) {
