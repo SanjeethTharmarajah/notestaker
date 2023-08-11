@@ -4,7 +4,7 @@ const path = require('path');
 const fs = require('fs');
 const uuid = require('./public/uuid');
 const app = express();
-const port = 3001;
+const port = process.env.PORT || 3001;
 
 // Set the path for static assets (CSS and front-end JS)
 app.use(express.static(path.join(__dirname, 'public')));
