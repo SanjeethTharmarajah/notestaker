@@ -20,7 +20,7 @@ async function displayNotes() {
       const deleteButton = document.createElement('button');
       noteItem.className = 'note-item';
       deleteButton.className = 'deletebtn';
-      deleteButton.textContent = 'X';
+      deleteButton.innerHTML = '<i class="fa fa-trash"></i>';
       deleteButton.setAttribute("data-id2", note.id2);
       noteItem.textContent = note.title;
       noteItem.addEventListener('click', () => {
