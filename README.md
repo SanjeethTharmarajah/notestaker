@@ -66,7 +66,7 @@ WHEN delete is pressed coded to delete data using id and json databse is updated
 
 4.) To test code in heroku click the following link
 
-https://sleepy-island-15905-da1937ecd04b.herokuapp.com/
+https://arcane-waters-74656-adb9b93bcced.herokuapp.com/
 
 ## Bonus
 
